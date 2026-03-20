@@ -1,2 +1,3 @@
-# hyper-e-learning-gx8q
-A online learning platform for modern development workflows
+# Hyper E Learning Gx8Q
+
+A online learning platform for modern development workflows.
